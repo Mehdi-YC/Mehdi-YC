@@ -1,16 +1,21 @@
 ## Hello, I'm Mehdi YAHIA CHERIF!
-Im a database BI solutions engeneer (Masters degree at USTHB Algeria) and i like also web design , worked as a wordpress dev and web dev in defferent companies , im starting my own comany and work also as a free lancer now take a look at my projects and feel free to contribute.  
+Im a database BI solutions engeneer (Masters degree at USTHB Algeria) 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SAVE-POlNT)
+- Linux enthusiast 
+- I like CLI tools (tmux , nvim ,lazydocker...) 
+- i prefer to code in python , go or js ( rust is too much rn lol )
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mehdi-YC)
 
 ----
 
 - CEO of SAVE POINT 
 
-- Currently learning PWA and jenkins
+- Currently learning PWA and jenkins , devops
+- i use tmux , nvim , cli tools (a Nerd)
 - I can help you with your python project
 - I will debug your code for you 
-- Automation and webdev are the main reason that made me a DEV
+- Automation , cli , linux  and webdev are the main reason that made me a DEV
 - Master degree on Business Intelligence 
 - I like databases and and dataviz
 - How to rach me :  __mehdi@digitalteam-dz.com__ or __mehdidouy@gmail.com__
