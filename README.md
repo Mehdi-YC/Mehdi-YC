@@ -67,7 +67,7 @@ Im a database BI solutions engeneer (Masters degree at USTHB Algeria)
 ----
 
   <img align="right" width="50%"
-     src="https://github-readme-stats.vercel.app/api?username=SAVE-POlNT&show_icons=true&hide_border=true&text_color=4078c0&bg_color=ff000000"/>
+     src="https://github-readme-stats.vercel.app/api?username=Mehdi-YC&show_icons=true&hide_border=true&text_color=4078c0&bg_color=ff000000"/>
 
   ### IM a big Linux Fan/User 
 confortable working with :<img width="7%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
