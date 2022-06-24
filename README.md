@@ -70,14 +70,14 @@ Im a database BI solutions engeneer (Masters degree at USTHB Algeria)
      src="https://github-readme-stats.vercel.app/api?username=Mehdi-YC&show_icons=true&hide_border=true&text_color=4078c0&bg_color=ff000000"/>
 
   ### IM a big Linux Fan/User 
-confortable working with :<img width="7%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"><img width="7%" src="https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg">
+confortable working with :<img width="7%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"><img width="7%" src="https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png">
 
 
 and those are my best distros for now:
 <p>
 
 <img width="7%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
-<img width="6%" src="https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg">
+<img width="6%" src="https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png">
 <img width="6%" src="https://assets.zorincdn.com/zorin.com/images/nav/logo.svg">
 <img width="6%" src="https://raw.githubusercontent.com/archcraft-os/archcraft-packages/main/archcraft-artworks/files/logo/png/logo-circle/logo-circle-1.png">
 <img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg">
