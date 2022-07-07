@@ -18,7 +18,7 @@ Im a database BI solutions engeneer (Masters degree at USTHB Algeria)
 - Automation , cli , linux  and webdev are the main reason that made me a DEV
 - Master degree on Business Intelligence 
 - I like databases and and dataviz
-- How to rach me :  __mehdi@digitalteam-dz.com__ or __mehdidouy@gmail.com__
+- How to reach me :  __mehdi@digitalteam-dz.com__ or __mehdidouy@gmail.com__
 
 ----
 
